@@ -6,6 +6,10 @@ import time
 
 # Specify the screen coordinates where you want to click
 x, y = 930, 711  # Change these values to the desired coordinates
+# x_cook, y_cook = 
+# x_closed, y_closed = 
+# x_popberry, y_popberry = 
+
 
 # Enable failsafe - moving the mouse to the upper-left corner will abort the script
 pyautogui.FAILSAFE = True
@@ -14,6 +18,9 @@ while True:
     # Move the mouse to the specified coordinates and click
 
     #Delayed after running a program
+
+
+
     time.sleep(2)
 
     #Click to make potberry
