@@ -7,12 +7,12 @@ import time
 # Specify the screen coordinates where you want to click
 x, y = 1167, 786  # Change these values to the desired coordinates
 cook_x , cook_y = 1116, 721
-x_pot,  y_pot = 700, 557
+x_pot,  y_pot = 673, 626
 x_quit, y_quit = 1349, 274
 wood_x , wood_y = 1003, 998
 
 # Enable failsafe - moving the mouse to the upper-left corner will abort the script
-pyautogui.FAILSAFE = True
+pyautogui.FAILSAFE = True           
 
 while True:
     # Move the mouse to the specified coordinates and click

@@ -1,59 +1,54 @@
 #Final > Jedlueng 26/2/2024
-#Javapod making version 1
+#Potberry making version 1
 
 import pyautogui
 import time
 
 # Specify the screen coordinates where you want to click
 x, y = 1167, 786  # Change these values to the desired coordinates
-
-x_smith, y_smith = 209, 541
-
+cook_x , cook_y = 1116, 721
+x_pot,  y_pot = 694, 585
+x_quit, y_quit = 1349, 274
 wood_x , wood_y = 1003, 998
 
-x_iron, y_iron = 704, 556
-
-x_quit, y_quit = 1349, 274
-
 # Enable failsafe - moving the mouse to the upper-left corner will abort the script
-pyautogui.FAILSAFE = True
+pyautogui.FAILSAFE = True           
 
 while True:
     # Move the mouse to the specified coordinates and click
 
     #Delayed after running a program
     time.sleep(2)
-
-
     pyautogui.click(wood_x, wood_y)
     time.sleep(1)
     #Click to make potberry
-    pyautogui.click(x_smith, y_smith)
+    pyautogui.click(cook_x, cook_y)
     time.sleep(1)
 
     pyautogui.click(wood_x, wood_y)
     time.sleep(1)
-    pyautogui.click(x_smith, y_smith)
+    pyautogui.click(cook_x, cook_y)
     time.sleep(1)
-    pyautogui.click(x_smith, y_smith)
+    pyautogui.click(cook_x, cook_y)
     time.sleep(1)
-    pyautogui.click(x_iron, y_iron)
+   
+    
 
-    time.sleep(1)
-
+    #Click to make potberry
     pyautogui.click(x, y)
-    time.sleep(1)
 
     pyautogui.click(x_quit, y_quit)
 
-    # Wait for 182 seconds
-    time.sleep(32)
+    # Wait for 27 seconds
+    time.sleep(30)
 
-    pyautogui.click(x_smith, y_smith)
 
+
+    #Collect Berry
+    pyautogui.click(cook_x, cook_y)
 
     #Wait
-    time.sleep(2)
+    time.sleep(5)
 
     
 

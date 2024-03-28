@@ -11,7 +11,7 @@ x_smith, y_smith = 209, 541
 
 wood_x , wood_y = 1003, 998
 
-x_iron, y_iron = 704, 556
+x_iron, y_iron = 655, 530
 
 x_quit, y_quit = 1349, 274
 
@@ -47,7 +47,7 @@ while True:
     pyautogui.click(x_quit, y_quit)
 
     # Wait for 182 seconds
-    time.sleep(32)
+    time.sleep(122)
 
     pyautogui.click(x_smith, y_smith)
 

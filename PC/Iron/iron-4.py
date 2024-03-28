@@ -18,7 +18,7 @@ x_smith4, y_smith4 = 1153, 735
 #SLOT 4 
 wood_x , wood_y = 1003, 998
 
-x_iron, y_iron = 670, 478
+x_iron, y_iron = 646, 526
 
 x_quit, y_quit = 1349, 274
 
