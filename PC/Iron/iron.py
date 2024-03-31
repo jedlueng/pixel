@@ -7,11 +7,11 @@ import time
 # Specify the screen coordinates where you want to click
 x, y = 1167, 786  # Change these values to the desired coordinates
 
-x_smith, y_smith = 1334, 555
+x_smith, y_smith = 209, 541
 
 wood_x , wood_y = 1003, 998
 
-x_iron, y_iron = 678, 450
+x_iron, y_iron = 704, 556
 
 x_quit, y_quit = 1349, 274
 
