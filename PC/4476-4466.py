@@ -19,13 +19,17 @@ while True:
 
     #Mine 1 
     pyautogui.click(772, 372)
-    time.sleep(2)
+    time.sleep(4)
     pyautogui.click(772, 372)
+    time.sleep(2)
 
     #Mine 2 
     pyautogui.click(1163, 407)
     time.sleep(2)
     pyautogui.click(1163, 407)
+    time.sleep(2)
+    pyautogui.click(1163, 407)
+    time.sleep(2)
     #Move up 
     pyautogui.keyDown('w')
     time.sleep(2)
@@ -36,11 +40,18 @@ while True:
     pyautogui.click(787, 370)
     time.sleep(2)
     pyautogui.click(787, 370)
+    time.sleep(2)
+    pyautogui.click(787, 370)
+    time.sleep(2)
+
 
     #Mine 4
     pyautogui.click(1144, 381)
     time.sleep(2)
     pyautogui.click(1144, 381)
+    time.sleep(2)
+    pyautogui.click(1144, 381)
+    time.sleep(2)
 
     #Move right 
     pyautogui.keyDown('d')
@@ -65,7 +76,7 @@ while True:
     pyautogui.keyDown('a')
     time.sleep(0.5)
     pyautogui.keyUp('a')
-    time.sleep(40)
+    time.sleep(3)
 
     pyautogui.keyDown('w')
     time.sleep(2.5)
@@ -125,70 +136,59 @@ while True:
     time.sleep(40)
 
     #Farm 4470
+    time.sleep(3)
+
     pyautogui.keyDown('a')
-    time.sleep(0.5)
+    time.sleep(0.7)
     pyautogui.keyUp('a')
+    time.sleep(1)
 
     pyautogui.keyDown('w')
-    time.sleep(3)
-    pyautogui.keyUp('w')    
-
-    pyautogui.keyDown('d')
-    time.sleep(3)
-    pyautogui.keyUp('d')
-
-    pyautogui.keyDown('w')
-    time.sleep(0.2)
+    time.sleep(2.5)
     pyautogui.keyUp('w')
 
+    time.sleep(1)
+    pyautogui.click(825,344)
+    time.sleep(1)
+    pyautogui.click(825,344)
+    time.sleep(1)
+
     pyautogui.keyDown('d')
-    time.sleep(2)
+    time.sleep(1.5)
+    pyautogui.keyUp('d')
+    time.sleep(1)
+
+    pyautogui.click(1221, 357)
+    time.sleep(1)
+    pyautogui.click(1221, 357)
+    time.sleep(1)
+    pyautogui.click(1219, 688)
+    time.sleep(1)
+    pyautogui.click(1219, 688)
+    time.sleep(1)
+    
+    pyautogui.keyDown('a')
+    time.sleep(3)
+    pyautogui.keyUp('a')
+    time.sleep(1)
+
+    pyautogui.click(684, 367)
+    time.sleep(1)
+    pyautogui.click(684, 367)
+    time.sleep(1)
+    pyautogui.click(680, 694)
+    time.sleep(1)
+    pyautogui.click(680, 694)
+    time.sleep(1)
+
+    pyautogui.keyDown('d')
+    time.sleep(1.4)
     pyautogui.keyUp('d')
 
-    #Mine Click 
-    pyautogui.click(795, 431)
-    time.sleep(2)
-    pyautogui.click(795, 431)
-    time.sleep(1)
-
-    pyautogui.click(1144, 435)
-    time.sleep(2)
-    pyautogui.click(1144, 435)
-    time.sleep(1)
-
-    pyautogui.click(842, 689)
-    time.sleep(2)
-    pyautogui.click(842, 689)
-    time.sleep(1)
-
-    pyautogui.click(1148, 730)
-    time.sleep(2)
-    pyautogui.click(1148, 730)
-    time.sleep(1)
-
-    pyautogui.keyDown('a')
-    time.sleep(0.2)
-    pyautogui.keyUp('a')
-
     pyautogui.keyDown('s')
-    time.sleep(2)
+    time.sleep(2.5)
     pyautogui.keyUp('s')
-
-    pyautogui.keyDown('a')
     time.sleep(1)
-    pyautogui.keyUp('a')
-
-    pyautogui.keyDown('w')
-    time.sleep(0.3)
-    pyautogui.keyUp('w')
-
-    pyautogui.keyDown('a')
-    time.sleep(2.8)
-    pyautogui.keyUp('a')
-
-    pyautogui.keyDown('s')
-    time.sleep(2)
-    pyautogui.keyUp('s')
 
     pyautogui.keyDown('a')
     time.sleep(2)
