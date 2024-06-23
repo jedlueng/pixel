@@ -1,0 +1,262 @@
+// NAS Directory Structure
+digraph {
+	NAS
+	Areas
+	NAS -> Areas
+	Weight_Training
+	Areas -> Weight_Training
+	Running
+	Areas -> Running
+	Yoga
+	Areas -> Yoga
+	Boxing
+	Areas -> Boxing
+	Tennis
+	Areas -> Tennis
+	Cooking
+	Areas -> Cooking
+	Mental_Health
+	Areas -> Mental_Health
+	Project_Management
+	Areas -> Project_Management
+	Tech_Coordination
+	Areas -> Tech_Coordination
+	Reading
+	Areas -> Reading
+	Meditation
+	Areas -> Meditation
+	Learning
+	Areas -> Learning
+	Language_Learning
+	Areas -> Language_Learning
+	English
+	Language_Learning -> English
+	Thai
+	Language_Learning -> Thai
+	Chinese
+	Language_Learning -> Chinese
+	Wisdom_Quotes
+	Areas -> Wisdom_Quotes
+	Book_Summaries
+	Areas -> Book_Summaries
+	Pet_Care
+	Areas -> Pet_Care
+	Crypto_Blockchain
+	Areas -> Crypto_Blockchain
+	Website
+	Areas -> Website
+	PKM_Strategies
+	Areas -> PKM_Strategies
+	Python
+	Areas -> Python
+	Cryptocurrency
+	Areas -> Cryptocurrency
+	Smart_Home
+	Areas -> Smart_Home
+	Investments
+	Areas -> Investments
+	Net_Worth_Tracking
+	Areas -> Net_Worth_Tracking
+	Land_Documents
+	Areas -> Land_Documents
+	Bank_Accounts
+	Areas -> Bank_Accounts
+	Stock_Market
+	Areas -> Stock_Market
+	Gold
+	Areas -> Gold
+	Credit_Cards
+	Areas -> Credit_Cards
+	Soccer
+	Areas -> Soccer
+	Tennis
+	Areas -> Tennis
+	Playing
+	Tennis -> Playing
+	Watching
+	Tennis -> Watching
+	Music
+	Areas -> Music
+	Fragrances
+	Areas -> Fragrances
+	Astrology
+	Areas -> Astrology
+	Movies
+	Areas -> Movies
+	Gaming
+	Areas -> Gaming
+	Chess
+	Areas -> Chess
+	Style
+	Areas -> Style
+	Social
+	Areas -> Social
+	Traveling
+	Areas -> Traveling
+	Samchai
+	Areas -> Samchai
+	KJSupply
+	Areas -> KJSupply
+	ParetoNode
+	Areas -> ParetoNode
+	Resources
+	NAS -> Resources
+	Documents
+	Resources -> Documents
+	Spreadsheets
+	Resources -> Spreadsheets
+	Presentations
+	Resources -> Presentations
+	Health_Fitness
+	Resources -> Health_Fitness
+	Business
+	Resources -> Business
+	Technology
+	Resources -> Technology
+	Personal_Development
+	Resources -> Personal_Development
+	Logos
+	Resources -> Logos
+	Icons
+	Resources -> Icons
+	Photos
+	Resources -> Photos
+	Fiction
+	Resources -> Fiction
+	"Non-fiction"
+	Resources -> "Non-fiction"
+	Journals
+	Resources -> Journals
+	Online_Courses
+	Resources -> Online_Courses
+	Video_Tutorials
+	Resources -> Video_Tutorials
+	Documentation
+	Resources -> Documentation
+	Utilities
+	Resources -> Utilities
+	Development_Tools
+	Resources -> Development_Tools
+	Applications
+	Resources -> Applications
+	Tracks
+	Resources -> Tracks
+	Podcasts
+	Resources -> Podcasts
+	Sound_Effects
+	Resources -> Sound_Effects
+	2024
+	Resources -> 2024
+	2023
+	Resources -> 2023
+	2022
+	Resources -> 2022
+	2021
+	Resources -> 2021
+	2020
+	Resources -> 2020
+	"etc."
+	Resources -> "etc."
+	Action
+	Resources -> Action
+	Drama
+	Resources -> Drama
+	Comedy
+	Resources -> Comedy
+	Science_Fiction
+	Resources -> Science_Fiction
+	Documentaries
+	Resources -> Documentaries
+	"etc."
+	Resources -> "etc."
+	Maps
+	Resources -> Maps
+	Guides
+	Resources -> Guides
+	Historical_Data
+	Resources -> Historical_Data
+	Travel_Tips
+	Resources -> Travel_Tips
+	"etc."
+	Resources -> "etc."
+	Personal
+	Resources -> Personal
+	Professional
+	Resources -> Professional
+	Undergraduate
+	Resources -> Undergraduate
+	Postgraduate
+	Resources -> Postgraduate
+	Professional
+	Resources -> Professional
+	Educational
+	Resources -> Educational
+	Personal_Achievements
+	Resources -> Personal_Achievements
+	Fiction
+	Resources -> Fiction
+	"Non-fiction"
+	Resources -> "Non-fiction"
+	Fiction
+	Resources -> Fiction
+	"Non-fiction"
+	Resources -> "Non-fiction"
+	Car_1
+	Resources -> Car_1
+	Documents
+	Car_1 -> Documents
+	Pictures
+	Car_1 -> Pictures
+	Car_2
+	Resources -> Car_2
+	Documents
+	Car_2 -> Documents
+	Pictures
+	Car_2 -> Pictures
+	Daily_Planning
+	Resources -> Daily_Planning
+	Weekly_Planning
+	Resources -> Weekly_Planning
+	Monthly_Planning
+	Resources -> Monthly_Planning
+	Yearly_Planning
+	Resources -> Yearly_Planning
+	Project_Planning
+	Resources -> Project_Planning
+	Gadgets
+	Resources -> Gadgets
+	Books
+	Resources -> Books
+	Courses
+	Resources -> Courses
+	Travel
+	Resources -> Travel
+	Fitness_Equipment
+	Resources -> Fitness_Equipment
+	Clothing
+	Resources -> Clothing
+	Home_Appliances
+	Resources -> Home_Appliances
+	Scientific_Theory
+	Resources -> Scientific_Theory
+	Business_Theory
+	Resources -> Business_Theory
+	Economic_Theory
+	Resources -> Economic_Theory
+	Philosophical_Theory
+	Resources -> Philosophical_Theory
+	Psychological_Theory
+	Resources -> Psychological_Theory
+	Business_Strategy
+	Resources -> Business_Strategy
+	Investment_Strategy
+	Resources -> Investment_Strategy
+	Marketing_Strategy
+	Resources -> Marketing_Strategy
+	Personal_Development_Strategy
+	Resources -> Personal_Development_Strategy
+	Fitness_Strategy
+	Resources -> Fitness_Strategy
+	Productivity_Strategy
+	Resources -> Productivity_Strategy
+}
